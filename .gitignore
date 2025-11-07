@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+#Environment variable (Never commit passwords or sensitive info)
+.env
+.env.local
+.env.*.local
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Build / Dist folders
+dist/
+build/
+
+# Client-specific
+client/public/index.js.map
+client/npm-debug.log
