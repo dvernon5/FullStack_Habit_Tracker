@@ -2,7 +2,7 @@
 # Habit Tracker  
 **A full-stack habit tracking app with MongoDB, Express, Node.js, and vanilla HTML + Tailwind CSS**
 
-*Live Demo: [https://habit-tracker.onrender.com](https://habit-tracker.onrender.com)* *(replace with your actual URL after deploy)*
+*Live Demo: [https://fullstack-habit-tracker-pquw.onrender.com](https://fullstack-habit-tracker-pquw.onrender.com)
 
 ## Features
 - **Add**, **edit**, and **delete** habits  
